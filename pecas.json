@@ -1,0 +1,31 @@
+{
+    "gabinete": [
+
+        {
+            "descricao": "Gabinete Gamer C3 Tech",
+            "imagem": "https://images8.kabum.com.br/produtos/fotos/99438/gabinete-gamer-c3-tech-sem-fonte-mid-tower-usb-3-0-3-fans-rgb-preto-com-lateral-em-acrilico-mt-g800bk_1544621245_g.jpg",
+            "preco": "349.90"
+        },
+
+        {
+            "descricao": "Gabinete Gamer NOX Infinity Alpha",
+            "imagem": "https://images8.kabum.com.br/produtos/fotos/99928/gabinete-gamer-nox-infinity-alpha-rgb-rainbow-1-cooler-lateral-em-vidro-nxinfintyalpha__1548264827_g.jpg",
+            "preco": "289.90"
+        }
+    ],
+
+    "placa_mae": [
+
+        {
+            "descricao": "Placa-Mãe Gigabyte Aorus B450",
+            "imagem": "https://images4.kabum.com.br/produtos/fotos/99034/placa-mae-gigabyte-para-amd-am4-b450-aorus-m-ddr4__1541532560_g.jpg",
+            "preco": "729.90"
+        },
+        
+        {
+            "descricao": "Placa-Mãe Gigabyte B365M DS3H",
+            "imagem": "https://images1.kabum.com.br/produtos/fotos/103411/placa-mae-gigabyte-b365m-ds3h-intel-lga-1151-matx-ddr4_placa-mae-gigabyte-b365m-ds3h-intel-lga-1151-matx-ddr4_1566828952_g.jpg",
+            "preco": "589.90"
+        }
+    ]
+}
