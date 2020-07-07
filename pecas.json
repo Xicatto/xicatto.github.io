@@ -13,4 +13,19 @@
             "preco": "289.90"
         }
     ],
+
+    "placa_mae": [
+
+        {
+            "descricao": "Placa-Mãe Gigabyte Aorus B450",
+            "imagem": "https://images4.kabum.com.br/produtos/fotos/99034/placa-mae-gigabyte-para-amd-am4-b450-aorus-m-ddr4__1541532560_g.jpg",
+            "preco": "729.90"
+        },
+        
+        {
+            "descricao": "Placa-Mãe Gigabyte B365M DS3H",
+            "imagem": "https://images1.kabum.com.br/produtos/fotos/103411/placa-mae-gigabyte-b365m-ds3h-intel-lga-1151-matx-ddr4_placa-mae-gigabyte-b365m-ds3h-intel-lga-1151-matx-ddr4_1566828952_g.jpg",
+            "preco": "589.90"
+        }
+    ]
 }
